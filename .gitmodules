@@ -7,3 +7,6 @@
 [submodule "iazar-datacollector"]
 	path = iazar-datacollector
 	url = https://github.com/Yehoward/iazar-datacollector.git
+[submodule "model_md_coqui"]
+	path = model_md_coqui
+	url = https://github.com/Yehoward/model_md_coqui.git
