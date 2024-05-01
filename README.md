@@ -1,4 +1,8 @@
-![logo](./static/iazar-logo.png)
+<p align="center">
+  <img src="./static/iazar-logo.png" alt="logo" height="150dp">
+</p>
+
+<hr></hr>
 
 # İAZAR 
 
