@@ -1,0 +1,9 @@
+[submodule "whisper-small-ro"]
+	path = whisper-small-ro
+	url = https://github.com/Yehoward/whisper-small-ro.git
+[submodule "iazar-tg-bot"]
+	path = iazar-tg-bot
+	url = https://github.com/Yehoward/iazar-tg-bot.git
+[submodule "iazar-datacollector"]
+	path = iazar-datacollector
+	url = https://github.com/Yehoward/iazar-datacollector.git
