@@ -18,13 +18,14 @@ Acesta este strîngătorul de date, cu ajutorul căruia putem strînge date voca
 
 Bot telegram pentru transcrierea vocii în text, ce lucrează cu ajutorul modelului antrenat.
 
-# [model_md_coqui](https://github.com/Yehoward/model_md_coqui)
-
-Modelul "antrenat" coqui.
 
 # [whisper-small-ro](https://github.com/Yehoward/whisper-small-ro)
 
 Modelul antrenat whisper.
+
+# [model_md_coqui](https://github.com/Yehoward/model_md_coqui)
+
+Modelul "antrenat" coqui.
 
 # Echipa
 
