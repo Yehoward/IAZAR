@@ -23,6 +23,12 @@ Bot telegram pentru transcrierea vocii în text, ce lucrează cu ajutorul modelu
 
 Modelul antrenat whisper.
 
+# ./code_de_antrenare_iazar.ipynb
+
+Colabul folosit pentru antrenarea modelului whisper
+
+Colabul original -> https://github.com/Yehoward/IAZAR/raw/master/static/iazar-logo.png
+
 # [model_md_coqui](https://github.com/Yehoward/model_md_coqui)
 
 Modelul "antrenat" coqui.
