@@ -27,7 +27,7 @@ Modelul antrenat whisper.
 
 Colabul folosit pentru antrenarea modelului whisper
 
-Colabul original -> https://github.com/Yehoward/IAZAR/raw/master/static/iazar-logo.png
+Colabul original -> https://colab.research.google.com/github/sanchit-gandhi/notebooks/blob/main/fine_tune_whisper.ipynb#scrollTo=BRdrdFIeU78w
 
 # [model_md_coqui](https://github.com/Yehoward/model_md_coqui)
 
