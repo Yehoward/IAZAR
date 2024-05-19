@@ -23,7 +23,7 @@ Bot telegram pentru transcrierea vocii în text, ce lucrează cu ajutorul modelu
 
 Modelul antrenat whisper.
 
-# ./code_de_antrenare_iazar.ipynb
+# [./code_de_antrenare_iazar.ipynb](https://nbviewer.org/github/Yehoward/IAZAR/blob/master/code_de_antrenare_iazar.ipynb)
 
 Colabul folosit pentru antrenarea modelului whisper
 
