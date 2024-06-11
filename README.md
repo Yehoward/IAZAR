@@ -37,6 +37,6 @@ Modelul "antrenat" coqui.
 
 Diana Josan
 
-Crinela Cernelia
+Crinela Cernelea
 
 Yehoward Rudenco
